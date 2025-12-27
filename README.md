@@ -1,2 +1,3 @@
-# MetaMudra-ASCII-Artmaker
-An android app to make ASCII art for llm chat interface 
+# MetaMudra-Unocide-Artmakera 
+
+An llm specificaction that conversts llm into unicide artmaker for MetaMudra games 
